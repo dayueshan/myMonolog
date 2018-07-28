@@ -1,0 +1,12 @@
+{
+    "name": "dayueshan/myMonolog",
+    "require": {
+        "phpunit/phpunit": "dev-masteir"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
